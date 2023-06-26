@@ -73,7 +73,7 @@
     "@material/material-color-utilities": "^0.2.6",
     "@radix-ui/react-icons": "^1",
     "@react-three/drei": "9.70.0",
-    "@react-three/fiber": "8.13.0",
+    "@react-three/fiber": "8.13.4",
     "ahooks": "^3",
     "antd": "^5",
     "antd-style": "latest",
