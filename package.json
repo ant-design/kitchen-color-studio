@@ -70,7 +70,7 @@
     "@ant-design/pro-editor": "latest",
     "@ctrl/tinycolor": "^3",
     "@leva-ui/plugin-bezier": "latest",
-    "@material/material-color-utilities": "^0.2.6",
+    "@material/material-color-utilities": "^0.2.7",
     "@radix-ui/react-icons": "^1",
     "@react-three/drei": "9.70.0",
     "@react-three/fiber": "8.13.0",
