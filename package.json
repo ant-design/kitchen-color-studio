@@ -94,7 +94,7 @@
     "react-copy-to-clipboard": "^5",
     "react-dom": "^18",
     "react-layout-kit": "^1",
-    "styled-components": "^5",
+    "styled-components": "^6",
     "three": "^0.152",
     "zustand": "^4"
   },
